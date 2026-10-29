@@ -21,3 +21,9 @@ Este proyecto consiste en el desarrollo del backend de una aplicación con Pytho
 3. **Instala las dependencias necesarias** ejecutando en tu terminal:
    ```bash
    pip install fastapi uvicorn pydantic python-dotenv
+   
+   Inicia el servidor local: uvicorn main:app --reload
+
+   API: http://127.0.0.1:8000/docs
+
+  ![API Inteligente - reseñas](image.png)
