@@ -27,3 +27,5 @@ Este proyecto consiste en el desarrollo del backend de una aplicación con Pytho
    API: http://127.0.0.1:8000/docs
 
   ![API Inteligente - reseñas](image.png)
+
+  ![Descripción](image.png)
