@@ -28,4 +28,4 @@ Este proyecto consiste en el desarrollo del backend de una aplicación con Pytho
 
   ![API Inteligente - reseñas](image.png)
 
-  ![Descripción](image.png)
+  ![Descripción](image 2.png)
